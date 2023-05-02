@@ -3,6 +3,8 @@
 ![License](https://img.shields.io/github/license/pittica/prestashop-trovaprezzi)
 ![Release](https://img.shields.io/github/v/release/pittica/prestashop-trovaprezzi)
 
+**DEPRECATED** [Replaced by prestashop-feed](https://github.com/pittica/prestashop-feed/)
+
 Trovaprezzi.it XML feed export module for [PrestaShop](https://github.com/prestashop/prestashop).
 
 ## Requirements
